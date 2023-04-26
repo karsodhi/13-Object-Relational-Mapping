@@ -10,6 +10,7 @@ I worked with a tutor for this assignment through the tutoring session for help 
 
 # Technology Used
 Postman
+
 Screencastify
 
 # Links
@@ -18,4 +19,8 @@ https://github.com/karsodhi/13-Object-Relational-Mapping
 
 
 # Screenshots
-![This is a weather dashboard](./images/workday.jpg)
+![these are screen shots of the assignment, this is the category view](./assets/postman1.jpg)
+
+![these are screen shots of the assignment, this is the product view](./assets/postman2.jpg)
+
+![these are screen shots of the assignment, this is the tag view](./assets/postman3.jpg)
