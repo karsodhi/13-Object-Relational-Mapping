@@ -8,7 +8,6 @@ router.get('/', async (req, res) => {
   // be sure to include its associated Products
   try {
     const categoryData = await Category.findAll({
-      // Add Book as a second model to JOIN with
       include: [{ model: Product }],
     });
     res.status(200).json(cateogryData);
@@ -22,7 +21,6 @@ router.get('/:id', async (req, res) => {
   // be sure to include its associated Products
   try {
     const idData = await Category.findByPk(req.params.id, {
-      // Add Book as a second model to JOIN with
       include: [{ model: Product }],
     });
 
