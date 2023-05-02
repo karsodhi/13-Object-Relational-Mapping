@@ -14,13 +14,17 @@ Postman
 Screencastify
 
 # Links
+Github Repository Link
 https://github.com/karsodhi/13-Object-Relational-Mapping
+
+ScreenCastify Link
+https://drive.google.com/file/d/1WgMSvr-Rf9b45uqDcGw09TCeJTpRrmpe/view
 
 
 
 # Screenshots
-![these are screen shots of the assignment, this is the category view](./assets/postman1.jpg)
+![these are screen shots of the assignment, this is the category view](./assets/insomnia1.jpg)
 
-![these are screen shots of the assignment, this is the product view](./assets/postman2.jpg)
+![these are screen shots of the assignment, this is the product view](./assets/insomnia2.jpg)
 
-![these are screen shots of the assignment, this is the tag view](./assets/postman3.jpg)
+![these are screen shots of the assignment, this is the tag view](./assets/insomnia3.jpg)
