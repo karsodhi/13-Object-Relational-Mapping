@@ -9,7 +9,7 @@ This is 13th homework assignment that we are tasked with.  We were to build the 
 I worked with a tutor for this assignment through the tutoring session for help and guidance as well as the TA's help from class.
 
 # Technology Used
-Postman
+Postman, 
 
 Screencastify
 
@@ -23,8 +23,8 @@ https://drive.google.com/file/d/1WgMSvr-Rf9b45uqDcGw09TCeJTpRrmpe/view
 
 
 # Screenshots
-![these are screen shots of the assignment, this is the category view](./assets/insomnia1.jpg)
+![these are screen shots of the assignment, this is the category view](./Assets/insomnia1.jpg)
 
-![these are screen shots of the assignment, this is the product view](./assets/insomnia2.jpg)
+![these are screen shots of the assignment, this is the product view](./Assets/insomnia2.jpg)
 
-![these are screen shots of the assignment, this is the tag view](./assets/insomnia3.jpg)
+![these are screen shots of the assignment, this is the tag view](./Assets/insomnia3.jpg)
